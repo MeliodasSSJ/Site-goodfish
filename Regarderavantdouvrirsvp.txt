@@ -1,0 +1,2 @@
+N'ayant pas de base de donnée, je n'ai pu traité la parti details des produits qui étais demander. 
+Et ayant fais le projet seul et dans un temps limité je n'ai pas pu traité une BDD par rapport au site.
